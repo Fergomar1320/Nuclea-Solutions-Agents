@@ -7,7 +7,6 @@
 
 # Do not ignore current project's `.uproject`.
 !/*.uproject
-.uasset
 
 # Do not ignore source, config and plugins dirs.
 !/Source/**
@@ -50,4 +49,4 @@ Session.vim
 
 # Visual Studio
 .vs
-*.uasset
+/Content/ConstructionMachines
